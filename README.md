@@ -6,3 +6,5 @@
 4. Click **Create Web Service**
 
 That's it! Your Deno web service will be live on your Render URL as soon as the build and deploy finish.
+
+Here's an [example deploy](https://deno-m8ib.onrender.com/) of the service.
